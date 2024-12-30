@@ -1,0 +1,141 @@
+[
+    {
+        "running_time": 73.32585620880127,
+        "result": [
+            {
+                "Graph": 1,
+                "results": {
+                    "total_solutions": 990,
+                    "Time_per_sample": 5.157379188922921e-05,
+                    "info": {
+                        "timing": {
+                            "qpu_sampling_time": 105280.0,
+                            "qpu_anneal_time_per_sample": 5.0,
+                            "qpu_readout_time_per_sample": 79.7,
+                            "qpu_access_time": 121039.16,
+                            "qpu_access_overhead_time": 2757.84,
+                            "qpu_programming_time": 15759.16,
+                            "qpu_delay_time_per_sample": 20.58,
+                            "post_processing_overhead_time": 21.0,
+                            "total_post_processing_time": 21.0
+                        },
+                        "problem_id": "2c6dba30-5591-4478-ab08-1b2760f32713"
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 104,
+                            "Total_constraint_violations": 527,
+                            "Best_node_color_mapping": {
+                                "0": 2,
+                                "1": 4,
+                                "2": 3,
+                                "3": 5,
+                                "4": 2,
+                                "5": 0,
+                                "7": 2,
+                                "8": 4,
+                                "9": 5
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 1,
+                            "P_sol": 10.505050505050505,
+                            "max_constrain": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": 2,
+                "results": {
+                    "total_solutions": 998,
+                    "Time_per_sample": 5.249676102387881e-05,
+                    "info": {
+                        "timing": {
+                            "qpu_sampling_time": 105300.0,
+                            "qpu_anneal_time_per_sample": 5.0,
+                            "qpu_readout_time_per_sample": 79.72,
+                            "qpu_access_time": 121063.56,
+                            "qpu_access_overhead_time": 1511.44,
+                            "qpu_programming_time": 15763.56,
+                            "qpu_delay_time_per_sample": 20.58,
+                            "post_processing_overhead_time": 25.0,
+                            "total_post_processing_time": 25.0
+                        },
+                        "problem_id": "31b65cce-60c7-48e0-840b-0681e3b225e8"
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 73,
+                            "Total_constraint_violations": 431,
+                            "Best_node_color_mapping": {
+                                "0": 0,
+                                "1": 3,
+                                "2": 3,
+                                "3": 1,
+                                "4": 3,
+                                "5": 5,
+                                "6": 5,
+                                "7": 0,
+                                "8": 5,
+                                "9": 4
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 2,
+                            "P_sol": 7.3146292585170345,
+                            "max_constrain": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": 3,
+                "results": {
+                    "total_solutions": 995,
+                    "Time_per_sample": 4.6300648444861026e-05,
+                    "info": {
+                        "timing": {
+                            "qpu_sampling_time": 120900.0,
+                            "qpu_anneal_time_per_sample": 5.0,
+                            "qpu_readout_time_per_sample": 95.32,
+                            "qpu_access_time": 136662.76,
+                            "qpu_access_overhead_time": 2589.24,
+                            "qpu_programming_time": 15762.76,
+                            "qpu_delay_time_per_sample": 20.58,
+                            "post_processing_overhead_time": 74.0,
+                            "total_post_processing_time": 74.0
+                        },
+                        "problem_id": "d7218c27-98d2-4ddd-8023-433c425845ee"
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 20,
+                            "Total_constraint_violations": 248,
+                            "Best_node_color_mapping": {
+                                "0": 3,
+                                "1": 0,
+                                "2": 3,
+                                "3": 2,
+                                "4": 3,
+                                "5": 2,
+                                "6": 3,
+                                "7": 5,
+                                "8": 5,
+                                "9": 1
+                            },
+                            "Best_number_of_colors_used": 5,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 1,
+                            "P_sol": 2.0100502512562812,
+                            "max_constrain": 0
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "graph": "5_1.txt",
+        "num_edges": 4,
+        "min_colors": 2
+    },
+    {
+        "graph": "5_2.txt",
+        "num_edges": 3,
+        "min_colors": 2
+    },
+    {
+        "graph": "5_3.txt",
+        "num_edges": 4,
+        "min_colors": 2
+    },
+    {
+        "graph": "5_4.txt",
+        "num_edges": 7,
+        "min_colors": 3
+    },
+    {
+        "graph": "5_5.txt",
+        "num_edges": 3,
+        "min_colors": 2
+    },
+    {
+        "graph": "5_6.txt",
+        "num_edges": 3,
+        "min_colors": 2
+    },
+    {
+        "graph": "5_7.txt",
+        "num_edges": 5,
+        "min_colors": 3
+    },
+    {
+        "graph": "5_8.txt",
+        "num_edges": 5,
+        "min_colors": 3
+    },
+    {
+        "graph": "5_9.txt",
+        "num_edges": 6,
+        "min_colors": 3
+    },
+    {
+        "graph": "5_10.txt",
+        "num_edges": 6,
+        "min_colors": 2
+    },
+    {
+        "graph": "5_11.txt",
+        "num_edges": 6,
+        "min_colors": 3
+    },
+    {
+        "graph": "5_12.txt",
+        "num_edges": 5,
+        "min_colors": 2
+    },
+    {
+        "graph": "5_13.txt",
+        "num_edges": 2,
+        "min_colors": 2
+    },
+    {
+        "graph": "5_14.txt",
+        "num_edges": 5,
+        "min_colors": 3
+    },
+    {
+        "graph": "5_15.txt",
+        "num_edges": 6,
+        "min_colors": 3
+    },
+    {
+        "graph": "5_16.txt",
+        "num_edges": 2,
+        "min_colors": 2
+    },
+    {
+        "graph": "5_17.txt",
+        "num_edges": 4,
+        "min_colors": 3
+    },
+    {
+        "graph": "5_18.txt",
+        "num_edges": 3,
+        "min_colors": 3
+    },
+    {
+        "graph": "5_19.txt",
+        "num_edges": 3,
+        "min_colors": 2
+    },
+    {
+        "graph": "5_20.txt",
+        "num_edges": 4,
+        "min_colors": 3
+    },
+    {
+        "graph": "5_21.txt",
+        "num_edges": 6,
+        "min_colors": 3
+    },
+    {
+        "graph": "5_22.txt",
+        "num_edges": 4,
+        "min_colors": 3
+    },
+    {
+        "graph": "5_23.txt",
+        "num_edges": 6,
+        "min_colors": 2
+    },
+    {
+        "graph": "5_24.txt",
+        "num_edges": 6,
+        "min_colors": 3
+    },
+    {
+        "graph": "10_1.txt",
+        "num_edges": 24,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_2.txt",
+        "num_edges": 24,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_3.txt",
+        "num_edges": 22,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_4.txt",
+        "num_edges": 16,
+        "min_colors": 3
+    },
+    {
+        "graph": "10_5.txt",
+        "num_edges": 19,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_6.txt",
+        "num_edges": 26,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_7.txt",
+        "num_edges": 25,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_8.txt",
+        "num_edges": 25,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_9.txt",
+        "num_edges": 28,
+        "min_colors": 5
+    },
+    {
+        "graph": "10_10.txt",
+        "num_edges": 24,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_11.txt",
+        "num_edges": 25,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_12.txt",
+        "num_edges": 29,
+        "min_colors": 5
+    },
+    {
+        "graph": "10_13.txt",
+        "num_edges": 20,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_14.txt",
+        "num_edges": 23,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_15.txt",
+        "num_edges": 20,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_16.txt",
+        "num_edges": 23,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_17.txt",
+        "num_edges": 23,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_18.txt",
+        "num_edges": 31,
+        "min_colors": 5
+    },
+    {
+        "graph": "10_19.txt",
+        "num_edges": 24,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_20.txt",
+        "num_edges": 20,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_21.txt",
+        "num_edges": 23,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_22.txt",
+        "num_edges": 18,
+        "min_colors": 3
+    },
+    {
+        "graph": "10_23.txt",
+        "num_edges": 23,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_24.txt",
+        "num_edges": 25,
+        "min_colors": 4
+    },
+    {
+        "graph": "15_1.txt",
+        "num_edges": 53,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_2.txt",
+        "num_edges": 52,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_3.txt",
+        "num_edges": 51,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_4.txt",
+        "num_edges": 47,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_5.txt",
+        "num_edges": 53,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_6.txt",
+        "num_edges": 49,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_7.txt",
+        "num_edges": 46,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_8.txt",
+        "num_edges": 51,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_9.txt",
+        "num_edges": 48,
+        "min_colors": 4
+    },
+    {
+        "graph": "15_10.txt",
+        "num_edges": 59,
+        "min_colors": 6
+    },
+    {
+        "graph": "15_11.txt",
+        "num_edges": 44,
+        "min_colors": 4
+    },
+    {
+        "graph": "15_12.txt",
+        "num_edges": 45,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_13.txt",
+        "num_edges": 56,
+        "min_colors": 6
+    },
+    {
+        "graph": "15_14.txt",
+        "num_edges": 50,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_15.txt",
+        "num_edges": 59,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_16.txt",
+        "num_edges": 47,
+        "min_colors": 4
+    },
+    {
+        "graph": "15_17.txt",
+        "num_edges": 50,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_18.txt",
+        "num_edges": 45,
+        "min_colors": 4
+    },
+    {
+        "graph": "15_19.txt",
+        "num_edges": 54,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_20.txt",
+        "num_edges": 56,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_21.txt",
+        "num_edges": 54,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_22.txt",
+        "num_edges": 51,
+        "min_colors": 6
+    },
+    {
+        "graph": "15_23.txt",
+        "num_edges": 50,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_24.txt",
+        "num_edges": 55,
+        "min_colors": 5
+    },
+    {
+        "graph": "20_1.txt",
+        "num_edges": 91,
+        "min_colors": 6
+    },
+    {
+        "graph": "20_2.txt",
+        "num_edges": 108,
+        "min_colors": 6
+    },
+    {
+        "graph": "20_3.txt",
+        "num_edges": 91,
+        "min_colors": 5
+    },
+    {
+        "graph": "20_4.txt",
+        "num_edges": 98,
+        "min_colors": 6
+    },
+    {
+        "graph": "20_5.txt",
+        "num_edges": 94,
+        "min_colors": 5
+    },
+    {
+        "graph": "20_6.txt",
+        "num_edges": 88,
+        "min_colors": 5
+    },
+    {
+        "graph": "20_7.txt",
+        "num_edges": 97,
+        "min_colors": 6
+    },
+    {
+        "graph": "20_8.txt",
+        "num_edges": 88,
+        "min_colors": 5
+    },
+    {
+        "graph": "20_9.txt",
+        "num_edges": 94,
+        "min_colors": 5
+    },
+    {
+        "graph": "20_10.txt",
+        "num_edges": 97,
+        "min_colors": 6
+    },
+    {
+        "graph": "20_11.txt",
+        "num_edges": 103,
+        "min_colors": 6
+    },
+    {
+        "graph": "20_12.txt",
+        "num_edges": 90,
+        "min_colors": 5
+    },
+    {
+        "graph": "20_13.txt",
+        "num_edges": 101,
+        "min_colors": 6
+    },
+    {
+        "graph": "20_14.txt",
+        "num_edges": 89,
+        "min_colors": 5
+    },
+    {
+        "graph": "20_15.txt",
+        "num_edges": 92,
+        "min_colors": 5
+    },
+    {
+        "graph": "20_16.txt",
+        "num_edges": 95,
+        "min_colors": 7
+    },
+    {
+        "graph": "20_17.txt",
+        "num_edges": 101,
+        "min_colors": 6
+    },
+    {
+        "graph": "20_18.txt",
+        "num_edges": 92,
+        "min_colors": 6
+    },
+    {
+        "graph": "20_19.txt",
+        "num_edges": 100,
+        "min_colors": 6
+    },
+    {
+        "graph": "20_20.txt",
+        "num_edges": 93,
+        "min_colors": 6
+    },
+    {
+        "graph": "20_21.txt",
+        "num_edges": 100,
+        "min_colors": 5
+    },
+    {
+        "graph": "20_22.txt",
+        "num_edges": 98,
+        "min_colors": 6
+    },
+    {
+        "graph": "20_23.txt",
+        "num_edges": 95,
+        "min_colors": 5
+    },
+    {
+        "graph": "20_24.txt",
+        "num_edges": 95,
+        "min_colors": 6
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "running_time": 45.066587924957275,
+        "result": [
+            {
+                "Graph": "5_1",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.0026034748554229735,
+                    "info": {
+                        "beta_range": [
+                            0.052644089662780655,
+                            2.7653123644791584e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 22085300,
+                            "sampling_ns": 2578412800,
+                            "postprocessing_ns": 3258200
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 46,
+                            "Total_constraint_violations": 769,
+                            "Best_node_color_mapping": {
+                                "0": 1,
+                                "1": 1,
+                                "2": 3,
+                                "3": 0,
+                                "4": 0
+                            },
+                            "Best_number_of_colors_used": 3,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 4.6
+                        },
+                        {
+                            "graph_id": 1,
+                            "success_count": 0,
+                            "Total_constraint_violations": 2118,
+                            "Best_node_color_mapping": {
+                                "0": 2,
+                                "1": 2,
+                                "2": 4,
+                                "3": 1,
+                                "4": 0,
+                                "5": 1,
+                                "6": 3,
+                                "7": 5,
+                                "8": 3,
+                                "9": 0,
+                                "10": 4,
+                                "11": 0,
+                                "12": 3,
+                                "13": 0,
+                                "14": 1,
+                                "15": 4,
+                                "16": 5,
+                                "17": 2,
+                                "18": 2,
+                                "19": 5
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]

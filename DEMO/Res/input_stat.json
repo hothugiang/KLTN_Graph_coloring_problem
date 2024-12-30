@@ -1,0 +1,42 @@
+[
+    {
+        "graph": "5_1.txt",
+        "num_edges": 4,
+        "min_colors": 3
+    },
+    {
+        "graph": "5_2.txt",
+        "num_edges": 5,
+        "min_colors": 3
+    },
+    {
+        "graph": "10_1.txt",
+        "num_edges": 23,
+        "min_colors": 4
+    },
+    {
+        "graph": "10_2.txt",
+        "num_edges": 25,
+        "min_colors": 4
+    },
+    {
+        "graph": "15_1.txt",
+        "num_edges": 56,
+        "min_colors": 5
+    },
+    {
+        "graph": "15_2.txt",
+        "num_edges": 45,
+        "min_colors": 4
+    },
+    {
+        "graph": "20_1.txt",
+        "num_edges": 88,
+        "min_colors": 5
+    },
+    {
+        "graph": "20_2.txt",
+        "num_edges": 83,
+        "min_colors": 5
+    }
+]

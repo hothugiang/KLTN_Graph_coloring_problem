@@ -1,0 +1,50 @@
+{
+    "5": {
+        "P_sol_mean": 0.0,
+        "P_sol_std": 0.0,
+        "Constraint_mean": 2.048966666666667,
+        "Constraint_std": 0.26055523833195565,
+        "Opt_gap_mean": 2.2666666666666666,
+        "Opt_gap_std": 0.7272474743090478
+    },
+    "10": {
+        "P_sol_mean": 0.0,
+        "P_sol_std": 0.0,
+        "Constraint_mean": 2.1506,
+        "Constraint_std": 0.19426212531868717,
+        "Opt_gap_mean": 2.6333333333333333,
+        "Opt_gap_std": 0.7520342781785652
+    },
+    "15": {
+        "P_sol_mean": 0.0,
+        "P_sol_std": 0.0,
+        "Constraint_mean": 2.0913,
+        "Constraint_std": 0.22313719994657993,
+        "Opt_gap_mean": 2.5,
+        "Opt_gap_std": 0.6708203932499369
+    },
+    "20": {
+        "P_sol_mean": 0.0,
+        "P_sol_std": 0.0,
+        "Constraint_mean": 2.086,
+        "Constraint_std": 0.21467355061426022,
+        "Opt_gap_mean": 2.4,
+        "Opt_gap_std": 0.8
+    },
+    "25": {
+        "P_sol_mean": 0.0,
+        "P_sol_std": 0.0,
+        "Constraint_mean": 2.0881,
+        "Constraint_std": 0.17370191900686263,
+        "Opt_gap_mean": 2.5,
+        "Opt_gap_std": 0.7187952884282609
+    },
+    "30": {
+        "P_sol_mean": 0.0,
+        "P_sol_std": 0.0,
+        "Constraint_mean": 2.087066666666667,
+        "Constraint_std": 0.1966300982951378,
+        "Opt_gap_mean": 2.4,
+        "Opt_gap_std": 0.7118052168020874
+    }
+}

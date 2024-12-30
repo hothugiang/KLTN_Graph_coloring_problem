@@ -1,0 +1,1562 @@
+[
+    {
+        "running_time": 739.2019619941711,
+        "result": [
+            {
+                "annealing_time": 5
+            },
+            {
+                "Graph": "20_1",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.002152357578277588,
+                    "info": {
+                        "beta_range": [
+                            0.050718086382435024,
+                            3.31837483737499e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 16863800,
+                            "sampling_ns": 2133968400,
+                            "postprocessing_ns": 2239400
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 2124,
+                            "Best_node_color_mapping": {
+                                "0": 1,
+                                "1": 5,
+                                "2": 3,
+                                "3": 2,
+                                "4": 0,
+                                "5": 3,
+                                "6": 1,
+                                "7": 5,
+                                "8": 1,
+                                "9": 1,
+                                "10": 5,
+                                "11": 1,
+                                "12": 4,
+                                "13": 3,
+                                "14": 4,
+                                "15": 4,
+                                "16": 3,
+                                "17": 2,
+                                "18": 0,
+                                "19": 5
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_2",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.0020824289321899414,
+                    "info": {
+                        "beta_range": [
+                            0.04683426895675306,
+                            8.295937093437475e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 19421000,
+                            "sampling_ns": 2061479000,
+                            "postprocessing_ns": 2124700
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 2121,
+                            "Best_node_color_mapping": {
+                                "0": 2,
+                                "1": 5,
+                                "2": 3,
+                                "3": 4,
+                                "4": 2,
+                                "5": 0,
+                                "6": 0,
+                                "7": 2,
+                                "8": 4,
+                                "9": 0,
+                                "10": 1,
+                                "11": 1,
+                                "12": 3,
+                                "13": 1,
+                                "14": 3,
+                                "15": 3,
+                                "16": 3,
+                                "17": 4,
+                                "18": 1,
+                                "19": 5
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_3",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.0020252418518066405,
+                    "info": {
+                        "beta_range": [
+                            0.04424343705701778,
+                            3.181533349023515e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 15963100,
+                            "sampling_ns": 2006056900,
+                            "postprocessing_ns": 2448500
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1966,
+                            "Best_node_color_mapping": {
+                                "0": 4,
+                                "1": 1,
+                                "2": 2,
+                                "3": 1,
+                                "4": 4,
+                                "5": 4,
+                                "6": 5,
+                                "7": 5,
+                                "8": 1,
+                                "9": 4,
+                                "10": 2,
+                                "11": 5,
+                                "12": 2,
+                                "13": 5,
+                                "14": 0,
+                                "15": 4,
+                                "16": 0,
+                                "17": 2,
+                                "18": 3,
+                                "19": 0
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_4",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.002224015474319458,
+                    "info": {
+                        "beta_range": [
+                            0.05331901388922656,
+                            8.295937093437475e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 17973400,
+                            "sampling_ns": 2203580000,
+                            "postprocessing_ns": 2361200
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 2169,
+                            "Best_node_color_mapping": {
+                                "0": 0,
+                                "1": 1,
+                                "2": 5,
+                                "3": 3,
+                                "4": 3,
+                                "5": 1,
+                                "6": 5,
+                                "7": 2,
+                                "8": 0,
+                                "9": 1,
+                                "10": 1,
+                                "11": 4,
+                                "12": 3,
+                                "13": 2,
+                                "14": 5,
+                                "15": 4,
+                                "16": 4,
+                                "17": 0,
+                                "18": 2,
+                                "19": 0
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_5",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.007134917974472046,
+                    "info": {
+                        "beta_range": [
+                            0.05391144737688463,
+                            607.8824645504397
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 16534700,
+                            "sampling_ns": 7115301800,
+                            "postprocessing_ns": 2300100
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1715,
+                            "Best_node_color_mapping": {
+                                "0": 2,
+                                "1": 3,
+                                "2": 3,
+                                "3": 5,
+                                "4": 3,
+                                "5": 0,
+                                "6": 5,
+                                "7": 3,
+                                "8": 0,
+                                "9": 4,
+                                "10": 2,
+                                "11": 1,
+                                "12": 0,
+                                "13": 5,
+                                "14": 1,
+                                "15": 2,
+                                "16": 0,
+                                "17": 3,
+                                "18": 5,
+                                "19": 4
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_6",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.007671659469604492,
+                    "info": {
+                        "beta_range": [
+                            0.049510512897138946,
+                            138.15510557964325
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 14952600,
+                            "sampling_ns": 7655331500,
+                            "postprocessing_ns": 1885000
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1253,
+                            "Best_node_color_mapping": {
+                                "0": 2,
+                                "1": 3,
+                                "2": 3,
+                                "3": 4,
+                                "4": 4,
+                                "5": 4,
+                                "6": 0,
+                                "7": 1,
+                                "8": 0,
+                                "9": 2,
+                                "10": 1,
+                                "11": 0,
+                                "12": 3,
+                                "13": 0,
+                                "14": 0,
+                                "15": 3,
+                                "16": 3,
+                                "17": 2,
+                                "18": 4,
+                                "19": 3
+                            },
+                            "Best_number_of_colors_used": 5,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_7",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.002007594347000122,
+                    "info": {
+                        "beta_range": [
+                            0.049510512897138946,
+                            3.31837483737499e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 16214700,
+                            "sampling_ns": 1989053800,
+                            "postprocessing_ns": 2032300
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 2041,
+                            "Best_node_color_mapping": {
+                                "0": 0,
+                                "1": 5,
+                                "2": 4,
+                                "3": 1,
+                                "4": 4,
+                                "5": 4,
+                                "6": 0,
+                                "7": 5,
+                                "8": 0,
+                                "9": 5,
+                                "10": 2,
+                                "11": 1,
+                                "12": 3,
+                                "13": 3,
+                                "14": 3,
+                                "15": 5,
+                                "16": 0,
+                                "17": 1,
+                                "18": 0,
+                                "19": 3
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_8",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.001958779573440552,
+                    "info": {
+                        "beta_range": [
+                            0.05134423559703299,
+                            3.31837483737499e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 15782000,
+                            "sampling_ns": 1940387800,
+                            "postprocessing_ns": 1961000
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1838,
+                            "Best_node_color_mapping": {
+                                "0": 1,
+                                "1": 5,
+                                "2": 0,
+                                "3": 2,
+                                "4": 5,
+                                "5": 2,
+                                "6": 0,
+                                "7": 0,
+                                "8": 1,
+                                "9": 4,
+                                "10": 1,
+                                "11": 0,
+                                "12": 2,
+                                "13": 4,
+                                "14": 1,
+                                "16": 5,
+                                "17": 4,
+                                "18": 1,
+                                "19": 2
+                            },
+                            "Best_number_of_colors_used": 5,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_9",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.008316765069961547,
+                    "info": {
+                        "beta_range": [
+                            0.054011468615060676,
+                            145.0628608586254
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 16969800,
+                            "sampling_ns": 8297662000,
+                            "postprocessing_ns": 2247700
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 2,
+                            "Total_constraint_violations": 1842,
+                            "Best_node_color_mapping": {
+                                "0": 3,
+                                "1": 5,
+                                "2": 1,
+                                "3": 5,
+                                "4": 1,
+                                "5": 1,
+                                "6": 5,
+                                "7": 3,
+                                "8": 5,
+                                "9": 3,
+                                "10": 0,
+                                "11": 0,
+                                "12": 2,
+                                "13": 1,
+                                "14": 2,
+                                "15": 3,
+                                "16": 2,
+                                "17": 2,
+                                "18": 0,
+                                "19": 3
+                            },
+                            "Best_number_of_colors_used": 5,
+                            "ILP_num_colors": 5,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.2
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_10",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.006573877811431885,
+                    "info": {
+                        "beta_range": [
+                            0.04699302919050476,
+                            582.8149103203016
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 14945100,
+                            "sampling_ns": 6556411100,
+                            "postprocessing_ns": 1932700
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1631,
+                            "Best_node_color_mapping": {
+                                "0": 5,
+                                "1": 3,
+                                "2": 3,
+                                "3": 3,
+                                "4": 5,
+                                "5": 2,
+                                "6": 1,
+                                "7": 0,
+                                "8": 4,
+                                "9": 0,
+                                "10": 4,
+                                "11": 2,
+                                "12": 0,
+                                "13": 3,
+                                "14": 5,
+                                "15": 1,
+                                "16": 5,
+                                "17": 0,
+                                "18": 2,
+                                "19": 4
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_11",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.0021618666648864746,
+                    "info": {
+                        "beta_range": [
+                            0.05391144737688463,
+                            5.530624728958317e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 16962100,
+                            "sampling_ns": 2142075200,
+                            "postprocessing_ns": 2257900
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 2042,
+                            "Best_node_color_mapping": {
+                                "0": 2,
+                                "1": 5,
+                                "2": 3,
+                                "3": 4,
+                                "4": 1,
+                                "5": 2,
+                                "6": 5,
+                                "7": 3,
+                                "8": 0,
+                                "9": 1,
+                                "10": 3,
+                                "11": 3,
+                                "12": 5,
+                                "13": 4,
+                                "14": 5,
+                                "15": 1,
+                                "16": 5,
+                                "17": 2,
+                                "18": 0,
+                                "19": 2
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_12",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.006840709924697876,
+                    "info": {
+                        "beta_range": [
+                            0.04424343705701778,
+                            331.57225339114376
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 15191000,
+                            "sampling_ns": 6822933700,
+                            "postprocessing_ns": 1943300
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1507,
+                            "Best_node_color_mapping": {
+                                "0": 5,
+                                "1": 3,
+                                "2": 0,
+                                "3": 5,
+                                "4": 4,
+                                "5": 0,
+                                "6": 5,
+                                "7": 4,
+                                "8": 5,
+                                "9": 1,
+                                "10": 0,
+                                "11": 4,
+                                "12": 4,
+                                "13": 1,
+                                "14": 0,
+                                "15": 5,
+                                "16": 4,
+                                "17": 3,
+                                "18": 0,
+                                "19": 1
+                            },
+                            "Best_number_of_colors_used": 5,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_13",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.009524616241455078,
+                    "info": {
+                        "beta_range": [
+                            0.054722145833679896,
+                            317.8990419928849
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 21087500,
+                            "sampling_ns": 9500830600,
+                            "postprocessing_ns": 2816000
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1919,
+                            "Best_node_color_mapping": {
+                                "0": 5,
+                                "1": 5,
+                                "2": 4,
+                                "3": 3,
+                                "4": 3,
+                                "5": 2,
+                                "6": 1,
+                                "7": 5,
+                                "8": 4,
+                                "9": 0,
+                                "10": 1,
+                                "11": 1,
+                                "12": 1,
+                                "13": 3,
+                                "14": 4,
+                                "15": 2,
+                                "16": 1,
+                                "17": 0,
+                                "18": 5,
+                                "19": 0
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_14",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.0019229156970977782,
+                    "info": {
+                        "beta_range": [
+                            0.05041070404072329,
+                            5.530624728958317e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 15653400,
+                            "sampling_ns": 1904375100,
+                            "postprocessing_ns": 2482700
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1992,
+                            "Best_node_color_mapping": {
+                                "0": 5,
+                                "1": 2,
+                                "2": 1,
+                                "3": 3,
+                                "4": 5,
+                                "5": 3,
+                                "6": 5,
+                                "7": 0,
+                                "8": 5,
+                                "9": 4,
+                                "10": 4,
+                                "11": 2,
+                                "12": 1,
+                                "13": 5,
+                                "14": 0,
+                                "15": 1,
+                                "16": 2,
+                                "17": 0,
+                                "18": 4,
+                                "19": 3
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_15",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.002195094108581543,
+                    "info": {
+                        "beta_range": [
+                            0.05010702510071893,
+                            4.110008420394245e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 17872200,
+                            "sampling_ns": 2174425500,
+                            "postprocessing_ns": 2301300
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 2247,
+                            "Best_node_color_mapping": {
+                                "0": 1,
+                                "1": 0,
+                                "2": 4,
+                                "3": 3,
+                                "4": 5,
+                                "5": 3,
+                                "6": 5,
+                                "7": 5,
+                                "8": 4,
+                                "9": 5,
+                                "10": 4,
+                                "11": 0,
+                                "12": 0,
+                                "14": 3,
+                                "15": 1,
+                                "16": 3,
+                                "17": 4,
+                                "18": 1,
+                                "19": 1
+                            },
+                            "Best_number_of_colors_used": 5,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 1,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_16",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.00704765248298645,
+                    "info": {
+                        "beta_range": [
+                            0.04904343258678858,
+                            110.52408446371423
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 14105800,
+                            "sampling_ns": 7031841700,
+                            "postprocessing_ns": 1884800
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1108,
+                            "Best_node_color_mapping": {
+                                "0": 3,
+                                "1": 2,
+                                "2": 2,
+                                "3": 3,
+                                "4": 4,
+                                "5": 4,
+                                "6": 4,
+                                "7": 5,
+                                "8": 5,
+                                "9": 1,
+                                "10": 5,
+                                "11": 3,
+                                "12": 3,
+                                "13": 1,
+                                "14": 2,
+                                "15": 5,
+                                "16": 5,
+                                "17": 1,
+                                "18": 3,
+                                "19": 1
+                            },
+                            "Best_number_of_colors_used": 5,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_17",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.0023224153518676756,
+                    "info": {
+                        "beta_range": [
+                            0.05134423559703299,
+                            5.530624728958317e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 18565900,
+                            "sampling_ns": 2301474200,
+                            "postprocessing_ns": 2511300
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 2216,
+                            "Best_node_color_mapping": {
+                                "0": 1,
+                                "1": 5,
+                                "2": 2,
+                                "3": 4,
+                                "4": 3,
+                                "5": 3,
+                                "6": 2,
+                                "7": 0,
+                                "8": 2,
+                                "9": 2,
+                                "10": 0,
+                                "11": 3,
+                                "13": 4,
+                                "14": 0,
+                                "15": 3,
+                                "16": 1,
+                                "17": 1,
+                                "18": 0,
+                                "19": 2
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 1,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_18",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.002036051034927368,
+                    "info": {
+                        "beta_range": [
+                            0.055451774444795626,
+                            3.31837483737499e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 16777300,
+                            "sampling_ns": 2017425200,
+                            "postprocessing_ns": 2193800
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 2165,
+                            "Best_node_color_mapping": {
+                                "0": 3,
+                                "1": 4,
+                                "2": 5,
+                                "3": 2,
+                                "4": 5,
+                                "5": 2,
+                                "6": 2,
+                                "7": 2,
+                                "8": 5,
+                                "9": 0,
+                                "10": 0,
+                                "11": 1,
+                                "12": 0,
+                                "13": 3,
+                                "14": 3,
+                                "15": 5,
+                                "16": 3,
+                                "17": 4,
+                                "18": 4,
+                                "19": 2
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_19",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.007781182527542114,
+                    "info": {
+                        "beta_range": [
+                            0.05102924028662174,
+                            227.95592420641
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 16014300,
+                            "sampling_ns": 7763410000,
+                            "postprocessing_ns": 2103200
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1489,
+                            "Best_node_color_mapping": {
+                                "0": 2,
+                                "1": 0,
+                                "2": 3,
+                                "3": 3,
+                                "4": 4,
+                                "5": 0,
+                                "6": 5,
+                                "7": 3,
+                                "8": 5,
+                                "9": 5,
+                                "10": 0,
+                                "11": 3,
+                                "12": 5,
+                                "13": 0,
+                                "14": 0,
+                                "15": 4,
+                                "16": 3,
+                                "17": 2,
+                                "18": 4,
+                                "19": 2
+                            },
+                            "Best_number_of_colors_used": 5,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_20",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.007799876689910889,
+                    "info": {
+                        "beta_range": [
+                            0.04807957321803089,
+                            506.5687204586853
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 17692000,
+                            "sampling_ns": 7779543400,
+                            "postprocessing_ns": 2229000
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1658,
+                            "Best_node_color_mapping": {
+                                "0": 2,
+                                "1": 3,
+                                "2": 1,
+                                "3": 5,
+                                "4": 3,
+                                "5": 0,
+                                "6": 3,
+                                "7": 0,
+                                "8": 1,
+                                "9": 2,
+                                "10": 4,
+                                "11": 5,
+                                "12": 4,
+                                "13": 2,
+                                "14": 3,
+                                "15": 5,
+                                "16": 5,
+                                "17": 2,
+                                "18": 3,
+                                "19": 4
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_21",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.008709801197052001,
+                    "info": {
+                        "beta_range": [
+                            0.050718086382435024,
+                            329.2696682981506
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 20450200,
+                            "sampling_ns": 8687563300,
+                            "postprocessing_ns": 2458100
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1851,
+                            "Best_node_color_mapping": {
+                                "0": 5,
+                                "1": 3,
+                                "2": 0,
+                                "3": 4,
+                                "4": 0,
+                                "5": 5,
+                                "6": 4,
+                                "7": 4,
+                                "8": 5,
+                                "9": 2,
+                                "10": 4,
+                                "11": 1,
+                                "12": 0,
+                                "13": 0,
+                                "14": 4,
+                                "15": 2,
+                                "16": 3,
+                                "17": 1,
+                                "18": 3,
+                                "19": 5
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_22",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.0019986543655395508,
+                    "info": {
+                        "beta_range": [
+                            0.04892803627481967,
+                            5.530624728958317e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 15397200,
+                            "sampling_ns": 1980936300,
+                            "postprocessing_ns": 2130300
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1913,
+                            "Best_node_color_mapping": {
+                                "0": 5,
+                                "1": 5,
+                                "2": 5,
+                                "3": 0,
+                                "4": 0,
+                                "5": 3,
+                                "6": 4,
+                                "7": 1,
+                                "8": 0,
+                                "9": 0,
+                                "10": 1,
+                                "11": 4,
+                                "12": 1,
+                                "13": 2,
+                                "14": 3,
+                                "15": 4,
+                                "16": 0,
+                                "17": 5,
+                                "18": 3,
+                                "19": 3
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_23",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.007710582971572876,
+                    "info": {
+                        "beta_range": [
+                            0.048079573218030885,
+                            317.8990419928833
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 17099900,
+                            "sampling_ns": 7691726800,
+                            "postprocessing_ns": 2155900
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1548,
+                            "Best_node_color_mapping": {
+                                "0": 4,
+                                "1": 4,
+                                "2": 0,
+                                "3": 0,
+                                "4": 3,
+                                "5": 2,
+                                "6": 0,
+                                "7": 5,
+                                "8": 3,
+                                "9": 5,
+                                "10": 0,
+                                "11": 5,
+                                "12": 4,
+                                "13": 5,
+                                "14": 0,
+                                "15": 3,
+                                "16": 0,
+                                "17": 3,
+                                "18": 2,
+                                "19": 0
+                            },
+                            "Best_number_of_colors_used": 5,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_24",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.004755277633666993,
+                    "info": {
+                        "beta_range": [
+                            0.049510512897138946,
+                            184.20680743952434
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 10844700,
+                            "sampling_ns": 4743280300,
+                            "postprocessing_ns": 1525500
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 694,
+                            "Best_node_color_mapping": {
+                                "0": 2,
+                                "1": 2,
+                                "2": 4,
+                                "3": 3,
+                                "4": 4,
+                                "5": 3,
+                                "6": 3,
+                                "7": 3,
+                                "8": 2,
+                                "9": 4,
+                                "10": 3,
+                                "11": 5,
+                                "13": 2,
+                                "14": 3,
+                                "15": 2,
+                                "16": 4,
+                                "17": 4,
+                                "18": 3,
+                                "19": 2
+                            },
+                            "Best_number_of_colors_used": 4,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_25",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.0021822197437286377,
+                    "info": {
+                        "beta_range": [
+                            0.04683426895675306,
+                            5.530624728958317e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 17240500,
+                            "sampling_ns": 2162792800,
+                            "postprocessing_ns": 2259200
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 2223,
+                            "Best_node_color_mapping": {
+                                "0": 2,
+                                "1": 2,
+                                "2": 2,
+                                "3": 0,
+                                "4": 5,
+                                "5": 5,
+                                "6": 1,
+                                "7": 3,
+                                "8": 1,
+                                "9": 2,
+                                "10": 0,
+                                "12": 5,
+                                "13": 3,
+                                "14": 1,
+                                "15": 2,
+                                "16": 3,
+                                "17": 5,
+                                "18": 1,
+                                "19": 3
+                            },
+                            "Best_number_of_colors_used": 5,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_26",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.007723510980606079,
+                    "info": {
+                        "beta_range": [
+                            0.05331901388922656,
+                            414.4653167389266
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 17749900,
+                            "sampling_ns": 7703204700,
+                            "postprocessing_ns": 2276900
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1796,
+                            "Best_node_color_mapping": {
+                                "0": 3,
+                                "1": 1,
+                                "2": 2,
+                                "3": 0,
+                                "4": 4,
+                                "5": 2,
+                                "6": 3,
+                                "7": 2,
+                                "8": 3,
+                                "9": 4,
+                                "10": 0,
+                                "11": 0,
+                                "12": 0,
+                                "13": 3,
+                                "14": 3,
+                                "15": 4,
+                                "16": 0,
+                                "17": 1,
+                                "18": 5,
+                                "19": 5
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_27",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.001882997989654541,
+                    "info": {
+                        "beta_range": [
+                            0.05401146861506067,
+                            8.295937093437475e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 16469300,
+                            "sampling_ns": 1864027900,
+                            "postprocessing_ns": 2567400
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1853,
+                            "Best_node_color_mapping": {
+                                "0": 1,
+                                "1": 5,
+                                "2": 2,
+                                "3": 4,
+                                "4": 0,
+                                "5": 5,
+                                "6": 2,
+                                "7": 5,
+                                "8": 5,
+                                "9": 4,
+                                "10": 1,
+                                "11": 2,
+                                "12": 5,
+                                "13": 2,
+                                "14": 4,
+                                "15": 2,
+                                "16": 5,
+                                "17": 1,
+                                "18": 5,
+                                "19": 4
+                            },
+                            "Best_number_of_colors_used": 5,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_28",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.002267932653427124,
+                    "info": {
+                        "beta_range": [
+                            0.05295691532291603,
+                            3.31837483737499e+16
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 18744400,
+                            "sampling_ns": 2247372100,
+                            "postprocessing_ns": 2325700
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 2410,
+                            "Best_node_color_mapping": {
+                                "0": 2,
+                                "1": 2,
+                                "2": 2,
+                                "3": 3,
+                                "4": 3,
+                                "5": 1,
+                                "6": 5,
+                                "7": 0,
+                                "8": 1,
+                                "9": 3,
+                                "11": 3,
+                                "12": 5,
+                                "13": 4,
+                                "14": 0,
+                                "15": 4,
+                                "16": 4,
+                                "17": 1,
+                                "18": 5,
+                                "19": 0
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 1,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_29",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.006258638143539429,
+                    "info": {
+                        "beta_range": [
+                            0.055451774444795626,
+                            138.15510557964325
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 12318700,
+                            "sampling_ns": 6244660100,
+                            "postprocessing_ns": 1826300
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 1010,
+                            "Best_node_color_mapping": {
+                                "0": 2,
+                                "2": 3,
+                                "3": 3,
+                                "4": 1,
+                                "5": 2,
+                                "6": 2,
+                                "8": 2,
+                                "9": 4,
+                                "10": 4,
+                                "11": 4,
+                                "12": 4,
+                                "13": 2,
+                                "14": 4,
+                                "15": 3,
+                                "16": 3,
+                                "17": 1,
+                                "18": 1,
+                                "19": 2
+                            },
+                            "Best_number_of_colors_used": 4,
+                            "ILP_num_colors": 3,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            },
+            {
+                "Graph": "20_30",
+                "results": {
+                    "total_solutions": 1000,
+                    "Time_per_sample": 0.0087866690158844,
+                    "info": {
+                        "beta_range": [
+                            0.05041070404072329,
+                            607.8824645504342
+                        ],
+                        "beta_schedule_type": "geometric",
+                        "timing": {
+                            "preprocessing_ns": 20767900,
+                            "sampling_ns": 8763163300,
+                            "postprocessing_ns": 2781000
+                        }
+                    },
+                    "res": [
+                        {
+                            "graph_id": 0,
+                            "success_count": 0,
+                            "Total_constraint_violations": 2037,
+                            "Best_node_color_mapping": {
+                                "0": 5,
+                                "1": 0,
+                                "2": 0,
+                                "3": 1,
+                                "4": 3,
+                                "5": 1,
+                                "6": 2,
+                                "7": 1,
+                                "8": 5,
+                                "9": 1,
+                                "10": 3,
+                                "11": 2,
+                                "12": 2,
+                                "13": 3,
+                                "14": 4,
+                                "15": 4,
+                                "16": 0,
+                                "17": 4,
+                                "18": 4,
+                                "19": 5
+                            },
+                            "Best_number_of_colors_used": 6,
+                            "ILP_num_colors": 4,
+                            "Minimum_constraint_violations": 0,
+                            "P_sol": 0.0
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]
